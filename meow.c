@@ -1,5 +1,20 @@
 #include <stdio.h>
 
+void meow(int n);
+
+int main(void)
+{
+    meow(3);
+}
+
+void meow(int n)
+{
+   for (int i = 0; i < n; i++)
+   {
+       printf("meow\n");
+   }
+}
+
 // while loop declare variable outside loop
 // int main(void)
 // {
@@ -11,10 +26,20 @@
 //     }
 // }
 
-for loop declare variable inside loop
-{
-   for (int i = 0; i < 3; i++)
-   {
-       printf("meow\n");
-   }
-}
+// for loop declare variable inside loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
