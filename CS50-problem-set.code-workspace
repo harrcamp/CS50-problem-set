@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CS50-problem-set",
+			"path": "."
+		},
+		{
+			"name": "python_stationwise",
+			"path": "../../RML/python_stationwise/python_stationwise"
+		}
+	],
+	"settings": {}
+}
