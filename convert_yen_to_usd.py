@@ -18,4 +18,4 @@ import pandas as pd
 df_financial = pd.DataFrame(financial_data)
 
 # Display the DataFrame to the user
-import ace_tools as tools; tools.display_dataframe_to_user(name="Komatsu Financial Analysis FY2023 vs FY2024", dataframe=df_financial)
+#import ace_tools as tools; tools.display_dataframe_to_user(name="Komatsu Financial Analysis FY2023 vs FY2024", dataframe=df_financial)
